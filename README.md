@@ -34,7 +34,6 @@ cd church_manager_backend_java
 ### Database Setup
 1. **Create a MySQL Database:**
 Open your MySQL client (e.g., MySQL Workbench, command-line client) and create a new database.
-2. 
 ```
 CREATE DATABASE church_manager;
 ```
