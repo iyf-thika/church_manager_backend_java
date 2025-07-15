@@ -1,1 +1,1 @@
-# church_manager_backend_java
+# Church Manager
